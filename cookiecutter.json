@@ -1,0 +1,11 @@
+{
+    "full_name": "Your Name",
+    "email": "name@email.com",
+    "github_username": "username",
+    "project_name": "Super Cool Journal Article",
+    "repo_name": "my_article",
+    "project_short_description": "Trying to solve the world one article at a time",
+    "release_date": "2013-08-11",
+    "year": "2013",
+    "version": "0.1.0"
+}
