@@ -1,8 +1,10 @@
 {
     "full_name": "Your Name",
     "co_author": "Co-Author Name",
+    "co_author_two": "Second Co Author",
     "email": "name@email.com",
     "co_author_email": "name@email.com",
+    "co_author_two_email": "name@email.com",
     "ieee_journal": "IEEE Journal",
     "github_username": "username",
     "project_name": "Super Cool Journal Article",
