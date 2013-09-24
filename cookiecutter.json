@@ -1,6 +1,7 @@
 {
     "full_name": "Nigel Cleland",
     "co_author": "Golbon Zakeri",
+<<<<<<< HEAD
     "email": "nigel.cleland@auckland.ac.nz",
     "co_author_email": "g.zakeri@auckland.ac.nz",
     "ieee_journal": "IEEE Journal",
@@ -8,6 +9,17 @@
     "project_name": "Simulations into the effect of improved interisland transfer and reduced reserve requirements in the New Zealand electricity market",
     "repo_name": "pole_three",
     "project_short_description": "A simulation study of Pole Three in New Zealand with special consideration given to the reserve market",
+=======
+    "co_author_two": "Brent Young",
+    "email": "nigel.cleland@auckland.ac.nz",
+    "co_author_email": "g.zakeri@auckland.ac.nz",
+    "co_author_two_email": "b.young@auckland.ac.nz",
+    "ieee_journal": "IEEE Journal",
+    "github_username": "NigelCleland",
+    "project_name": "Marginal Offer Incentives for Participants in a Reserve Constrained Electricity Market",
+    "repo_name": "marginal_incentives",
+    "project_short_description": "The Marginal Offer Incentives faced by a participant in a reserve constrained electricity market",
+>>>>>>> 14441d4a9fbc4cb083c648e98ea55c34635997fa
     "release_date": "2013-08-11",
     "year": "2013",
     "version": "0.1.0"
