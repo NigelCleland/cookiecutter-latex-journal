@@ -11,6 +11,7 @@ clean:
 	rm *.blg
 	rm *.bbl
 	rm *.aux
+	rm *.synctex.gz
 
 build-all: plain-build ieee-build elsevier-build clean
 
